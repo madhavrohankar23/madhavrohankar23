@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Madhav Rohankar 👋
+# I'm Madhav Rohankar 👋
 
 ### Full-Stack Developer | Computer Science & Engineering Student
 
