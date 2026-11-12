@@ -39,19 +39,7 @@ I'm a Computer Science and Engineering student passionate about building modern,
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhavrohankar23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavrohankar23&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavrohankar23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
 
 ### 🏆 GitHub Achievements
 
